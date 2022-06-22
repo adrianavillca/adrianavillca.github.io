@@ -1,0 +1,55 @@
+p{
+    color: rgb(255, 0, 179);
+text-align:center ;
+font-size: 50px;
+}
+body{
+    background-color: blueviolet;
+border: 10px solid rgb(64, 204, 157);
+text-transform: uppercase;
+}
+
+.escudo{
+    width: 200px;
+    height: 250x;
+   
+}
+.case{
+    height: 200px;
+    width: 200px;
+}
+.monitor{
+    height: 200px;
+    width: 200px;
+}
+.teclado{
+    height: 200px;
+    width: 200px;
+}
+.mause{
+    height: 200px;
+    width: 200px;
+}.windows{
+    height: 200px;
+    width: 200px;
+}
+.colegio{
+    color: cyan;
+    font-size: 60px;
+    text-align:right ;
+    }
+    .curso{
+        color: cyan;
+        font-size: 75px;
+        text-align:left;
+        }
+        .materia{
+            color: cyan;
+            font-size: 75px;
+            text-align:center ;
+            }
+            .pre{
+                color: rgb(92, 12, 102);
+            text-align:right ;
+            font-size: 40px;
+            } 
