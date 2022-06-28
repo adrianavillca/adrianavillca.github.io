@@ -1,0 +1,99 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/3b/5e/61/3b5e61a6944fccbcb9f1d6015c6a3c48.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: yellow;
+    color: red;
+    border-radius: 40px;
+    border: 6px inset purple;
+    margin-left: 500px;
+    font-size: 40pt;
+    font-family: 'Rubik Moonrocks', cursive;
+    display: inline-block;
+    padding: 10px;
+    box-shadow: 5px 5px orange;
+    text-align: center;
+}
+h2{
+    font-family: 'Fredoka One', cursive;
+    font-size: 12pt;
+    color: blue;
+    background-color: lime;
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    border-radius: 40px;
+    border: 6px outset green;
+    text-align: center;
+    padding: 10px;
+    
+}
+div{
+    border-radius: 50%;
+    border: 10px double purple;
+    position: absolute;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 23pt;
+    font-family: 'Concert One', cursive;
+}
+
+div a{
+    text-decoration: none;
+}
+a{
+    color: red;
+}
+.uno{
+    background-color: cyan;
+    top: 230px;
+    left: 200px;
+    transition: all 1s;
+}
+.uno:hover{
+background-color: pink;
+border-color: purple;
+}
+.dos{
+    background-color: chartreuse;
+    top: 230px;
+    right: 200px;
+    transition: all 1s;
+}
+.dos:hover{
+    background-color: rgb(230, 167, 209);
+    border-color: rgb(0, 77, 13);
+    }
+.tres{
+    background-color: gold;
+    top: 600px;
+    right:510px;
+    transition: all 1s;
+}
+.tres:hover{
+    background-color: rgb(63, 153, 78);
+    border-color: rgb(0, 27, 77);
+    }
+img{
+    width: 180px;
+    height: 150px;
+    border-radius: 40px;
+}
+footer{
+    width: 100%;
+    position: absolute;
+    background-color: cyan;
+    color: blue;
+    font-size: 21pt;
+    font-family: 'Ultra', serif;
+    text-align: center;
+    bottom: -350px;
+     left: 0px;
+     text-shadow: 3px 3px white;
+}
